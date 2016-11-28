@@ -1,5 +1,5 @@
-# ornate_shop_module
-
+Ornate Shop Module :
+====================
 - Ornate Shop Module is a specially desinged module which combine Collapsibe Product Categories and Product Multi-image in just one module along side with elegant homepage degign.
 - Ornate Shop Module has also included the collapsible product categories in wesite shop section. It doesnot matter how many product categories you have you will get a nice collapsible look with all the parent an child categories.
 
