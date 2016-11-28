@@ -5,7 +5,7 @@ Ornate Shop Module :
 
 Installation :
 ==============
-- Install the theme normally like other modules.
+- Install the theme normally like other modules and start using.
 
 Configuration :
 ===============
